@@ -1,14 +1,18 @@
 # Estudar Gamedev 🎮
 
 
+## Programação
+
 
 
 ### Canais Youtube
 
+#### Português
 
-Inglês
 
+#### Inglês
+freeCodeCamp.org - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQzMDc2Mzg4XX0=
+eyJoaXN0b3J5IjpbLTE1MDU4MTYwNjJdfQ==
 -->
