@@ -4,6 +4,7 @@ Descrição
 ## Engines
 [Unity Learn](https://learn.unity.com/) - 
 [Unreal Engine Biblioteca de Aprendizado](https://dev.epicgames.com/community/unreal-engine/learning) - 
+[Introdução ao Godot](https://docs.godotengine.org/en/stable/getting_started/introduction/introduction_to_godot.html) - 
 
 ## Desenho/Ilustração
 
@@ -23,6 +24,7 @@ Descrição
 ### Sites
 [Learn OpenGL](https://learnopengl.com/Introduction) - 
 [Catlike Coding](https://catlikecoding.com/unity/tutorials/) - 
+[The Book of Shaders](https://thebookofshaders.com) - 
 
 ### Canais Youtube
 
@@ -31,5 +33,6 @@ Descrição
 [Code Monkey](https://www.youtube.com/@CodeMonkeyUnity) - Tutoriais de Unity.
 [Jason Weimann](https://www.youtube.com/@Unity3dCollege) - Tutoriais de Unity.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODAwNzk5NjYsLTEzMjU3ODE0MDldfQ==
+eyJoaXN0b3J5IjpbLTIwOTI4NTM3MCw4MDA3OTk2NiwtMTMyNT
+c4MTQwOV19
 -->
