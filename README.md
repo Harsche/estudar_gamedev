@@ -11,8 +11,8 @@
 
 
 #### Inglês
-freeCodeCamp.org - 
+[freeCodeCamp.org](https://www.youtube.com/@freecodecamp) - Vários cursos gratuitos sobre programação e computação no geral, incluindo C# e C++.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDU4MTYwNjJdfQ==
+eyJoaXN0b3J5IjpbLTE4MTY1Mzg5MTRdfQ==
 -->
