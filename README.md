@@ -16,6 +16,8 @@ Descrição
 
 ## Programação
 
+### Sites
+[Learn OpenGL](https://learnopengl.com/Introduction) - 
 
 
 ### Canais Youtube
@@ -29,5 +31,5 @@ Descrição
 [Code Monkey](https://www.youtube.com/@CodeMonkeyUnity) - Tutoriais de Unity.
 [Jason Weimann](https://www.youtube.com/@Unity3dCollege) - Tutoriais de Unity.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NjExNzgyOSwtMTMyNTc4MTQwOV19
+eyJoaXN0b3J5IjpbMTczNDM2ODAwMywtMTMyNTc4MTQwOV19
 -->
