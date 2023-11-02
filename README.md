@@ -1,4 +1,15 @@
 # Estudar Gamedev 🎮
+Descrição
+
+## Desenho/Ilustração
+
+
+### Canais Youtube
+
+#### Português
+
+
+#### Inglês
 
 
 ## Programação
@@ -16,5 +27,5 @@
 [Code Monkey](https://www.youtube.com/@CodeMonkeyUnity) - Tutoriais de Unity.
 [Jason Weimann](https://www.youtube.com/@Unity3dCollege) - Tutoriais de Unity.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMjQ1MTg0MSwtMTMyNTc4MTQwOV19
+eyJoaXN0b3J5IjpbMTIwOTM5NzY4MywtMTMyNTc4MTQwOV19
 -->
